@@ -25,11 +25,11 @@ Ce géostandard doit disposer de métadonnées suffisantes pour assurer la gén�
 
 
 ## Versions
-- 1.1 29 novembre 2022 : 1.1.0
-- 1.0 09 juin 2022 : 1.0.0
-- 0.6 20 mai 2022 : 0.6.0
-- 0.5 21 janvier 2021 : 0.5.0
-- 0.4 18 novembre 2021 : 0.4.0
-- 0.3 28 juin 2021 : 0.3.0
-- 0.2 03 juin 2021 : 0.2.0
+- 1.1 du 29 novembre 2022 : 1.1.0
+- 1.0 du 09 juin 2022 : 1.0.0
+- 0.6 du 20 mai 2022 : 0.6.0
+- 0.5 du 21 janvier 2021 : 0.5.0
+- 0.4 du 18 novembre 2021 : 0.4.0
+- 0.3 du 28 juin 2021 : 0.3.0
+- 0.2 du 03 juin 2021 : 0.2.0
 - 0.1 du 27 avril 2021 : 0.1.0
